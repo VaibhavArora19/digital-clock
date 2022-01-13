@@ -1,0 +1,28 @@
+body
+{
+    background-color: #072227;
+}
+
+.clock
+{
+    border-radius: 50%;
+    width:500px;
+    height: 500px;
+    
+    background-color: #072227;
+    margin: auto;
+    border: 0.2rem black solid;
+    margin-top:3%;
+    box-shadow: 5px 5px .4em , -5px -5px  .4em;
+    
+    /* box-shadow: inset 10px -10px ; */
+}
+.time
+{
+    text-align: center;
+    margin-top:42%;
+    font-size:3rem;  
+    color : #06FF00; 
+    font-family: 'Patrick Hand', cursive;
+}
+
